@@ -3,5 +3,9 @@
 2.使用了bootstrap的UI库
 3.学习使用JavaFX常用和布局
 4.修改了布局文件
+5.学会上传GIT功能
 
-[详细] (https://www.jianshu.com/writer#/notebooks/30069523/notes/36888543/preview)
+
+
+
+
